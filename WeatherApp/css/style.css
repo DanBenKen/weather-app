@@ -1,0 +1,34 @@
+body {
+    background-image: radial-gradient(circle, #1c7fc2, #009cdc 21%, #0d9ade 35%, #011844 100%);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    color: #fff;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+    color: #fff;
+    outline: 0;
+    border: 0;
+}
+
+.navigation-buttons i {
+    font-size: 30px;
+    color: #fff;
+}
+
+.navigation-buttons .btn:hover {
+    background-color: #009cdc;
+}
+
+.search-form .btn {
+    border: 0;
+    background-color: #fff;
+}
+
+.search-form .btn:hover {
+    background-color: #009cdc;
+}
